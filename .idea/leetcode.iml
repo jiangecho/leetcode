@@ -2,19 +2,20 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/344.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/main.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/258.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/344.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/349.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/237.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/258.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/100.c" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/349.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/258.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/344.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/237.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/258.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/237.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/349.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/344.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/283.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/237.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/100.c" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

@@ -12,7 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f8aaba6-f06c-43a1-9cae-fc0671043dc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2.c" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
@@ -36,16 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="258.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/258.c">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,13 +82,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
               <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding>
                 <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="51" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <element signature="e#80#98#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,6 +174,7 @@
         <option value="$PROJECT_DIR$/237.c" />
         <option value="$PROJECT_DIR$/100.c" />
         <option value="$PROJECT_DIR$/1.c" />
+        <option value="$PROJECT_DIR$/2.c" />
       </list>
     </option>
   </component>
@@ -778,6 +781,16 @@
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding>
             <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="e#80#98#0" expanded="true" />
           </folding>
         </state>
       </provider>
