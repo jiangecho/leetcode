@@ -1,4 +1,3 @@
-#include <tkDecls.h>
 
 //
 // Created by jiangecho on 16/7/9.
